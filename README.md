@@ -2,6 +2,8 @@
 
 A responsive, client-facing landing page developed for a local construction and interior finishing business. This is a legacy project that was successfully deployed and utilized during the company's operational period.
 
+**Live Demo (Hosted on GitHub Pages):** [Launch Live Project](https://matabra06.github.io/WallDone/)
+
 ## 🛠️ Tech Stack & Features
 - **Frontend:** HTML5, CSS3, JavaScript.
 - **Responsive Web Design (RWD):** Fully optimized for mobile, tablet, and desktop devices.
